@@ -1,0 +1,542 @@
+{
+  "project_info": {
+    "project_number": "1018372435825",
+    "firebase_url": "https://tml-sandbox-default-rtdb.firebaseio.com",
+    "project_id": "tml-sandbox",
+    "storage_bucket": "tml-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:631ce865a07a37165510d0",
+        "android_client_info": {
+          "package_name": "com.example.company_vehicle_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-9v5417v3356o3u30pqe1o7dr9o7j2ofp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.company_vehicle_management",
+            "certificate_hash": "8b2a6b9f20cd43e1aae4ae19342768f83638c4f4"
+          }
+        },
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:9764dc11b17b640a5510d0",
+        "android_client_info": {
+          "package_name": "com.example.f3d2_firebase_cms_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:0744c8caaf86a7455510d0",
+        "android_client_info": {
+          "package_name": "com.example.fcm_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:56e0bb977124385c5510d0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lab_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-l5mlj1fsic0gpnmkf8cgljb1ld73up5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_lab_flutter",
+            "certificate_hash": "4e590ecce5bbfe1012cc47965f6f3a4ecbc22812"
+          }
+        },
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:f558b993499345525510d0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_background_service_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:4c6f7d14da2143185510d0",
+        "android_client_info": {
+          "package_name": "com.example.game_concept_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:2971ef200e4602395510d0",
+        "android_client_info": {
+          "package_name": "com.example.ipaa_notihub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:f7bc98bb6449dbfd5510d0",
+        "android_client_info": {
+          "package_name": "com.example.personal_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:519433604799ead15510d0",
+        "android_client_info": {
+          "package_name": "com.example.personal_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:1eba7800d4f180845510d0",
+        "android_client_info": {
+          "package_name": "com.odmiot.iotcloud.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-p7nrg6shojerq75813315hnmbec29s76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odmiot.iotcloud.v1",
+            "certificate_hash": "4e590ecce5bbfe1012cc47965f6f3a4ecbc22812"
+          }
+        },
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:df8a79326819d7c05510d0",
+        "android_client_info": {
+          "package_name": "com.tml.apps.selfhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:1b9e5b3adfc14a7d5510d0",
+        "android_client_info": {
+          "package_name": "com.tml.flutterfirelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018372435825:android:3741e71b2fec7c645510d0",
+        "android_client_info": {
+          "package_name": "tml.apps.unicraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018372435825-k64ebc9br0dicnigb86g6gpevk1bbg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqmYuUmMK0xnMKHxOo-FsjeRLj6DrGKg"
+        },
+        {
+          "current_key": "AIzaSyCV_pEorYLtKpw6uWA5ew_Royph_9_SDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018372435825-hhhknsvmmjl19g4lug0a7nqv3m5oo8as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018372435825-12c1cmnc388riuv85n70kdh5hp3qcdfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odmiot.iotcloud.v1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
