@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutterfirelab/features/cloud_message/cloud_message_demo_screen.dart';
 import 'package:flutterfirelab/features/cloud_message/fcm_service.dart';
+import 'package:flutterfirelab/features/push_notification/push_notification_demo_screen.dart';
 
 main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -44,7 +45,8 @@ class _DemoListScreenState extends State<DemoListScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            ElevatedButton(onPressed: () { Navigator.push(context, MaterialPageRoute(builder: (_) => CloudMessageDemoScreen())); }, child: Text("Firebase Message"))
+            ElevatedButton(onPressed: () { Navigator.push(context, MaterialPageRoute(builder: (_) => CloudMessageDemoScreen())); }, child: Text("Firebase Message")),
+            ElevatedButton(onPressed: () { Navigator.push(context, MaterialPageRoute(builder: (_) => PushNotificationDemoScreen())); }, child: Text("Push Notification"))
           ],
         ),
       ),
