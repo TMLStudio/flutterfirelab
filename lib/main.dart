@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutterfirelab/features/cloud_message/cloud_message_demo_screen.dart';
+import 'package:flutterfirelab/features/cloud_message/fcm_service.dart';
 
-void main() {
+main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await fcm.initAsync();
+
   runApp(const MyApp());
 }
 
@@ -14,53 +20,33 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const DemoListScreen(),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
+class DemoListScreen extends StatefulWidget {
+  const DemoListScreen({super.key});
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<DemoListScreen> createState() => _DemoListScreenState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
-
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
-  }
+class _DemoListScreenState extends State<DemoListScreen> {
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title),
+        title: Text("Demo List"),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
+            ElevatedButton(onPressed: () { Navigator.push(context, MaterialPageRoute(builder: (_) => CloudMessageDemoScreen())); }, child: Text("Firebase Message"))
           ],
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
       ),
     );
   }
